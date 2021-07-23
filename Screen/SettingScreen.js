@@ -20,6 +20,7 @@ function SettingScreen({navigation}) {
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
+      backgroundColor: '#fff1ff',
     },
     text: {
       fontSize: 40,
